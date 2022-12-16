@@ -26,6 +26,6 @@ I started learning web development about 3 months ago.(started in Octorber 2022 
 </ul> 
                                                    
 #### Contact me :telephone_receiver: : <br>
-<img src="https://img.icons8.com/color/512/linkedin.png" style="height:30px"> [Linkedin](linkedin.com/in/watcharakorn-klamchay-9b27b1231)
+<img src="https://img.icons8.com/color/512/linkedin.png" style="height:30px"> [Linkedin](https://www.linkedin.com/in/watcharakorn-klamchay-9b27b1231/)
 <br>
 <img src="https://img.icons8.com/color/512/gmail-new.png" style="height:30px"> [watcharakornk2022@gmail.com](https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=watcharakornk2022@gmail.com)
