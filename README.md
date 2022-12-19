@@ -20,11 +20,12 @@ I started learning web development about 3 months ago.(started in Octorber 2022 
 </ul> 
 
 ####  These are my currently projects that I do for practice ! :memo: :crayon:
-<ul>
-  <li>1 </li>
-  <li>2</li>
-</ul> 
-                                                   
+
+1. <strong>  JobsFinder</strong>  : Deployed on vercel, please check here >> [JobsFinder](https://nextjs-mysql-jobsfinder.vercel.app) 
+                                    or can see the code here! on github. >> [JobsFinder-code](https://github.com/WatkornFeng/nextjs-mysql-jobsfinder) 
+2. working on ... (coming soon)
+
+                                                 
 #### Contact me :telephone_receiver: : <br>
 <img src="https://img.icons8.com/color/512/linkedin.png" style="height:30px"> [Linkedin](https://www.linkedin.com/in/watcharakorn-klamchay-9b27b1231/)
 <br>
