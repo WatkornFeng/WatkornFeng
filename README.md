@@ -19,7 +19,7 @@ I started learning web development about 3 months ago.(started in Octorber 2022 
  <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="height:30px"> MySQL</li>
 </ul> 
 
-####  These are my currently projects that I do for practice ! :memo: :crayon:
+####  These are my currently projects that I do for develop my coding skills ! :memo: :crayon:
 
 1. <strong>  JobsFinder</strong>  : Deployed on vercel, please check here >> [JobsFinder](https://nextjs-mysql-jobsfinder.vercel.app) 
                                     or can see the code here >> [JobsFinder-code](https://github.com/WatkornFeng/nextjs-mysql-jobsfinder) on github!
