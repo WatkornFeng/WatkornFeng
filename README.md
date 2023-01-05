@@ -21,13 +21,13 @@ I started learning web development about 3 months ago.(started in Octorber 2022 
 
 ####  These are my currently projects that I do for develop my coding skills ! :memo: :crayon:
 
-1. <strong>  JobsFinder</strong>  :  <br>
-            -  Deployed on vercel, please check here >> [JobsFinder](https://nextjs-mysql-jobsfinder.vercel.app) <br>
-            - Connected with PlanetScale database (MySQL) <br>
-            - Developed by using next.js! <br>
-            - Source code here >> [JobsFinder-code](https://github.com/WatkornFeng/nextjs-mysql-jobsfinder) on github!<br>
+1. <strong>  JobsFinder</strong>  : <strong>  Not-Responsive web-application , Have function search , Pagination </strong>  <br>
+    - Deployed on vercel, please check here >> [JobsFinder](https://nextjs-mysql-jobsfinder.vercel.app) <br>
+    - Connected with PlanetScale database (MySQL) <br>
+    - Developed by using next.js! <br>
+    - Source code here >> [JobsFinder-code](https://github.com/WatkornFeng/nextjs-mysql-jobsfinder) on github!<br>
                                     
-2. <strong>  ExchangeF</strong> : <br>
+2. <strong>  ExchangeF</strong> : <strong> Responsive web-application (can use on mobile,ipad etc.) , Have Login system , Have Third-party APIs </strong> <br> 
     - Please checked here >> [ExchangeF](https://exchange-react-eight.vercel.app)  <br>
     - Deployed Front-End (React.js) on vercel <br>
     - Deployed Back-End (Node js) on Cyclic <br>
