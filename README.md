@@ -30,7 +30,7 @@ I started learning web development about 3 months ago.(started in Octorber 2022 
 2. <strong>  ExchangeF</strong> : <strong> Responsive web-application (can use on mobile,ipad etc.) , Have Login system , Have Third-party APIs </strong> <br> 
     - Please checked here >> [ExchangeF](https://exchange-react-eight.vercel.app)  <br>
     - Deployed Front-End (React.js) on vercel <br>
-    - Deployed Back-End (Node js) on Cyclic <br>
+    - Deployed Back-End (Node.js/Express.js) on Cyclic <br>
     - Connected with PlanetScale database (MySQL) <br>
     - Source code here >> [ExchangeF-Front-End](https://github.com/WatkornFeng/exchange-react) on github!<br>
     - Source code here >> [ExchangeF-Back-End](https://github.com/WatkornFeng/exchange-api) on github!<br>
