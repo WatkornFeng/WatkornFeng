@@ -1,11 +1,11 @@
 ### Hello everyone 👋 My name's Watcharakorn Klamchay from Thailand.
 ============================================================ <br>
 <p>I'm looking for <strong>Full-Stack Developer job!</strong><p> <br> 
-I started learning web development about 3 months ago.(started in Octorber 2022 ) <br>
+I started learning web development about 4 months ago.(started in Octorber 2022 ) <br>
 
 * ⚡️ Fun-Fact: I have a degree in Aerospace engineering 😄
 * :writing_hand: I’m currently learning about web development.
-* :computer: I have plan to learn another languages programming more ! such as Python etc.
+* :computer: I have plan to learn another languages programming more ! such as Python, JAVA, Golang etc.
 
 ------------------------------------------------------------<br>
 #### Programming Languages :desktop_computer: : <br>
