@@ -1,6 +1,6 @@
 ### Hello everyone 👋 My name's Watcharakorn Klamchay from Thailand.
 ============================================================ <br>
-<p>I'm looking for <strong>Full-Stack Developer job!</strong><p> <br> 
+<p>I'm looking for <strong>Front-End or Back-End Developer jobs!</strong><p> <br> 
 I started learning web development about 4 months ago.(started in Octorber 2022 ) <br>
 
 * ⚡️ Fun-Fact: I have a degree in Aerospace engineering 😄
