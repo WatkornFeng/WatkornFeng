@@ -5,7 +5,7 @@ I started learning web development about 4 months ago.(started in Octorber 2022 
 
 * ⚡️ Fun-Fact: I have a degree in Aerospace engineering 😄
 * :writing_hand: I’m currently learning about web development.
-* :computer: I have plan to learn another languages programming more ! such as Python, JAVA, Golang etc.
+* :computer: I have plan to learn another languages programming more ! such as Python, Flutter etc.
 
 ------------------------------------------------------------<br>
 #### Programming Languages :desktop_computer: : <br>
