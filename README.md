@@ -22,7 +22,7 @@ I started learning web development about 4 months ago.(started in Octorber 2022 
 ####  These are my currently projects that I do for develop my coding skills ! :memo: :crayon:
 
 1. <strong>  JobsFinder</strong>  : <strong>  Not-Responsive web-application , Have function search , Pagination </strong>  <br>
-    - Deployed on vercel, please check here >> [JobsFinder](https://nextjs-mysql-jobsfinder.vercel.app) <br>
+    - Deployed on vercel
     - Connected with PlanetScale database (MySQL) <br>
     - Developed by using next.js! <br>
     - Source code here >> [JobsFinder-code](https://github.com/WatkornFeng/nextjs-mysql-jobsfinder) on github!<br>
