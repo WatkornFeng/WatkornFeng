@@ -1,11 +1,12 @@
 ### Hello everyone 👋 My name's Watcharakorn Klamchay from Thailand.
 ============================================================ <br>
 <p>I'm looking for <strong>Front-End or Back-End Developer jobs!</strong><p> <br> 
-I started learning web development about 4 months ago.(started in Octorber 2022 ) <br>
+I started learning web development about 5 months ago.(started in Octorber 2022 ) <br>
 
 * ⚡️ Fun-Fact: I have a degree in Aerospace engineering 😄
-* :writing_hand: I’m currently learning about web development.
-* :computer: I have plan to learn another languages programming more ! such as Python, Flutter etc.
+* :writing_hand: I’m currently learning about web development and application for mobile.
+* :computer: I have plan to learn another languages programming more ! such as Python, Dart etc.
+  Futhermore I just start learning UI design tool (<strong>Figma</strong>) for enhancing the stylish of my projects😄.
 
 ------------------------------------------------------------<br>
 #### Programming Languages :desktop_computer: : <br>
@@ -26,6 +27,7 @@ I started learning web development about 4 months ago.(started in Octorber 2022 
     - Connected with PlanetScale database (MySQL) <br>
     - Developed by using next.js! <br>
     - Source code here >> [JobsFinder-code](https://github.com/WatkornFeng/nextjs-mysql-jobsfinder) on github!<br>
+    ***Note : This project website is now not available due to some safety issues, but you can folk my code and run on your computer!
                                     
 2. <strong>  ExchangeF</strong> : <strong> Responsive web-application (can use on mobile,ipad etc.) , Have Login system , Have Third-party APIs </strong> <br> 
     - Please checked here >> [ExchangeF](https://exchange-react-eight.vercel.app)  <br>
