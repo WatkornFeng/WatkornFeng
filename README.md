@@ -34,8 +34,8 @@ I started learning web development about 5 months ago.(started in Octorber 2022 
     - Deployed Front-End (React.js) on vercel <br>
     - Deployed Back-End (Node.js/Express.js) on Cyclic <br>
     - Connected with PlanetScale database (MySQL) <br>
-    - Source code here >> [ExchangeF-Front-End](https://github.com/WatkornFeng/exchange-react) on github!<br>
-    - Source code here >> [ExchangeF-Back-End](https://github.com/WatkornFeng/exchange-api) on github!<br>
+    - Source code here >> [ExchangeF-Front-End](https://github.com/WatkornFeng/exchange-react/tree/dev) on github!<br>
+    - Source code here >> [ExchangeF-Back-End](https://github.com/WatkornFeng/exchange-api/tree/dev) on github!<br>
 
                                                  
 #### Contact me :telephone_receiver: : <br>
