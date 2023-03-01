@@ -9,7 +9,7 @@ I started learning web development about 5 months ago.(started in Octorber 2022 
   Futhermore I just start learning UI design tool (<strong>Figma</strong>) for enhancing the stylish of my projects😄.
 
 ------------------------------------------------------------<br>
-#### Programming Languages :desktop_computer: : <br>
+#### Skills :desktop_computer: : <br>
 <ul>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="height:30px"/> HTML5 </li>
   <li><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="height:30px"/> CSS </li>
